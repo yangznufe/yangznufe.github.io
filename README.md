@@ -1,2 +1,2 @@
 # yangznufe.github.io
-My personal website :)
+My personal website :) [Click here](yangznufe.github.io)
